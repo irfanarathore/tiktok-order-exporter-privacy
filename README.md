@@ -2,7 +2,7 @@
 
 ## Privacy Policy  
 
-**Effective Date:** [Insert Date]  
+**Effective Date:** [2/6/2025]  
 
 Welcome to **TikTok Order Exporter**! This tool helps TikTok Shop owners extract their order information from Gmail and generate an organized Excel file for easy management.
 
@@ -19,6 +19,5 @@ Welcome to **TikTok Order Exporter**! This tool helps TikTok Shop owners extract
 
 ### **Contact**  
 For any privacy concerns or inquiries, please reach out to:  
-📧 **Email:** [Your Contact Email]  
-🌐 **Website:** [Your Website URL]
+📧 **Email:** [irfanarathore@gmail.com]  
 
